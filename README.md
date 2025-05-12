@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Me chamo Alessandra e sou estudante de Engenharia de Software</h2>
+<h2 align="left">Hello Word, I'm Alessandra, be very welcome</h2>
 
 ###
 
