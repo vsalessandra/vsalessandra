@@ -1,4 +1,4 @@
-<h2 align="left">Hello Word, I'm Alessandra, be very welcome🤍</h2>
+<h2 align="left">Olá! me chamo Alessandra, seja bem vindo(a)🤍</h2>
 
 ###
 
