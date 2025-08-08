@@ -13,7 +13,7 @@
 
 <h2 align="left">Sobre mim</h2>
 <p align="left">Sou uma pessoa organizada, dedicada e que está sempre em busca de aprender coisas novas.</p>
-<p align="left">💻 Hoje estou focada em Python/Django e Flutter.</p>
+<p align="left">💻 Hoje estou focada em Python e Flutter.</p>
 <p align="left">📚 Já colaborei em projetos na faculdade e estou começando a desenvolver meus próprios projetos.</p>
 
 ###
