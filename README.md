@@ -13,8 +13,8 @@
 
 <h2 align="left">Sobre mim</h2>
 <p align="left">✨Sou uma pessoa organizada, dedicada e que está sempre em busca de aprender coisas novas.</p>
-<p align="left">💻 Hoje estou focada em Python e Flutter.</p>
-<p align="left">📚 Já colaborei em projetos na faculdade onde pude desenvolver projetos para empresas reais e aplicar conceitos de Spring Boot, Java, SQL, HTML, CSS.</p>
+<p align="left">💻 Estagiária em Desenvolvimento Back End</p>
+<p align="left">📚 Interesse pelo desenvolvimento web e análise de dados.</p>
 
 ###
 <h2 align="left">Tecnologias</h2>
