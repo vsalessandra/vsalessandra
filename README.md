@@ -14,7 +14,7 @@
 <h2 align="left">Sobre mim</h2>
 <p align="left">✨ Estudante de Engenharia de Software e estagiária em Desenvolvimento Back End</p>
 <p align="left">📚 Interesse por desenvolvimento web e análise de dados.</p>
-<p align="left">💻 Atualemnte estudando sobre Docker, Python e Firebase.</p>
+<p align="left">💻 Atualmente estudando sobre Docker, Python e Firebase.</p>
 
 ###
 <h2 align="left">Tecnologias</h2>
