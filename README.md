@@ -13,8 +13,7 @@
 
 <h2 align="left">Sobre mim</h2>
 <p align="left">✨ Estudante de Engenharia de Software e estagiária em Desenvolvimento Back End.</p>
-<p align="left">📚 Interesse pelo desenvolvimento web e análise de dados.</p>
-<p align="left">💻 Atualmente estudando sobre DevOps e Cloud.</p>
+<p align="left">📚 Estudando análise de dados e cloud.</p>
 
 ###
 <h2 align="left">Tecnologias</h2>
