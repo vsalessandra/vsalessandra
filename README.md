@@ -12,8 +12,7 @@
 <img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNTIyMzUsIm5iZiI6MTc0NzA1MTkzNSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEyVDEyMTIxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljYzY2Zjc1YzRkYjNkYTdiZGVhZmE5Mjk4NjA5YzVkZmQxMGVkMmViMWMyNTFkYWJjODNiZjNiZDQwYjljYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kHs_HHKQcGtNJkIMPeppKf42axfoBBCttFQszwoL3F0" />
 
 <h2 align="left">Sobre mim</h2>
-<p align="left">✨ Estudante de Engenharia de Software e estagiária em Desenvolvimento Back End.</p>
-<p align="left">📚 Estudando análise de dados e cloud.</p>
+<p align="left">✨ Estudante de Engenharia de Software | Estágio em Desenvolvimento Back End</p>
 
 ###
 <h2 align="left">Tecnologias</h2>
