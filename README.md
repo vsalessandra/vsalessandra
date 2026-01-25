@@ -23,13 +23,13 @@
 - Integração com Front-End utilizando **HTML**, **CSS** e **JavaScript**
 
 📊 **Dados & BI**
-- Análise e visualização de dados com **Power BI**
+- Análise e visualização de dados
 - Criação de dashboards e tratamento de dados
 
 ### 🚀 Áreas de interesse
 - Back-End com **Java** e **Spring Boot**
 - Desenvolvimento de aplicações web
-- Análise de dados com **SQL** e **Python** (*Pandas, NumPy, Matplotlib*)
+- Análise de dados com **SQL**, **Power BI** e **Python** (*Pandas, NumPy, Matplotlib*)
 
 ---
 
