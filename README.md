@@ -20,7 +20,6 @@
 💻 **Back-End & Web**
 - Desenvolvimento de aplicações web com **Java** e **Spring Boot**
 - Criação de **APIs REST**
-- Integração com Front-End utilizando **HTML**, **CSS** e **JavaScript**
 
 📊 **Dados & BI**
 - Análise e visualização de dados
