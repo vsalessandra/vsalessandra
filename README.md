@@ -4,7 +4,7 @@
   🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
 </p>
 
----
+--
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=dracula&count_private=true" height="150"/>
