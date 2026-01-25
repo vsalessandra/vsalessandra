@@ -4,7 +4,7 @@
   🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
 </p>
 
---
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=dracula&count_private=true" height="150"/>
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/>
 </div>
 
----
+
 
 ## 📈 Dados & Business Intelligence
 
@@ -60,7 +60,7 @@
   <img src="https://img.icons8.com/color/48/power-bi-2021.png" height="30"/>
 </div>
 
----
+
 
 ## 🛠️ Ferramentas
 
