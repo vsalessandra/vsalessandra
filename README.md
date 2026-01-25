@@ -57,7 +57,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/power-bi-2021.png" height="30"/>
 </div>
 
 ---
