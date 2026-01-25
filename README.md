@@ -55,9 +55,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12"/>
-  <img src="https://img.icons8.com/ios-filled/50/sql.png" height="30"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="30"/>
 </div>
 
 ---
