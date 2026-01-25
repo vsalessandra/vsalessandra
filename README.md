@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou a Alessandra 👋🤍</h1>
+<h1 align="center">Olá! Eu sou a Alessandra 👋✨</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software • Estagiária em Desenvolvimento Back-End  
+  🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
 </p>
 
 ---
@@ -15,18 +15,25 @@
 
 <img align="right" height="160" src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"/>
 
-## 💻 Sobre mim
+## 👩‍💻 Sobre mim
 
-✨ Sou estudante de **Engenharia de Software**, atualmente atuando como **estagiária em Desenvolvimento Back-End**.  
+💻 **Back-End & Web**
+- Desenvolvimento de aplicações web com **Java** e **Spring Boot**
+- Criação de **APIs REST**
+- Integração com Front-End utilizando **HTML**, **CSS** e **JavaScript**
 
-🚀 Foco atual:
-- Back-End com Java e Spring
-- Banco de dados
-- Análise e visualização de dados
+📊 **Dados & BI**
+- Análise e visualização de dados com **Power BI**
+- Criação de dashboards e tratamento de dados
+
+### 🚀 Áreas de interesse
+- Back-End com **Java** e **Spring Boot**
+- Desenvolvimento de aplicações web
+- Análise de dados com **SQL** e **Python** (*Pandas, NumPy, Matplotlib*)
 
 ---
 
-## 🚀 Tecnologias & Linguagens
+## 🧠 Tecnologias & Linguagens
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
@@ -37,8 +44,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/>
@@ -46,27 +51,15 @@
 
 ---
 
-## 🗄️ Banco de Dados
+## 📈 Dados & Business Intelligence
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql.svg" height="30"/>
 </div>
-
----
-
-## 📊 Dados & BI
-
-<div align="left">
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="30"/>
-</div>
-
-- Power BI para análise e visualização de dados
-- Criação de dashboards interativos
-- Modelagem e tratamento de dados
 
 ---
 
@@ -82,13 +75,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
 </div>
 
 ---
 
-## 📬 Vamos nos conectar?
+## 🤝 Vamos nos conectar?
 
 <div align="left">
   <a href="mailto:alessandravitoria799@gmail.com">
@@ -101,7 +92,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
----
-
-✨ Sempre aberta a aprender, colaborar e encarar novos desafios!
