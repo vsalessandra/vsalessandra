@@ -17,18 +17,13 @@
 
 ## 👩‍💻 Sobre mim
 
+📊 **Dados & BI**
+- Análise e visualização de dados com **SQL**, **Power BI** e **Python** (*Pandas, NumPy, Matplotlib*)
+- Criação de dashboards e tratamento de dados
+
 💻 **Back-End & Web**
 - Desenvolvimento de aplicações web com **Java** e **Spring Boot**
 - Criação de **APIs REST**
-
-📊 **Dados & BI**
-- Análise e visualização de dados
-- Criação de dashboards e tratamento de dados
-
-### 🚀 Áreas de interesse
-- Back-End com **Java** e **Spring Boot**
-- Desenvolvimento de aplicações web
-- Análise de dados com **SQL**, **Power BI** e **Python** (*Pandas, NumPy, Matplotlib*)
 
 ---
 
