@@ -17,13 +17,22 @@
 
 ## 👩‍💻 Sobre mim
 
-📊 **Dados & BI**
-- Análise e visualização de dados com **SQL**, **Power BI** e **Python** (*Pandas, NumPy, Matplotlib*)
-- Criação de dashboards e tratamento de dados
 
 💻 **Back-End & Web**
-- Desenvolvimento de aplicações web com **Java** e **Spring Boot**
-- Criação de **APIs REST**
+- Desenvolvimento de aplicações web utilizando **Java** e **Spring Boot**
+- Criação e manutenção de **APIs REST**, implementação de operações CRUD e regras de negócio
+- Integração com **banco de dados relacional (PostgreSQL/MySQL)**
+- Versionamento de código com **Git** e organização de branches
+
+🧪 **Testes & QA**
+- Realização de **testes manuais** para validação de correções e novas funcionalidades do sistema
+- Testes e validação de endpoints de API utilizando **Postman**, verificando requisições e respostas HTTP
+- Identificação e reprodução de erros para apoio na correção de problemas
+
+📊 **Dados & BI**
+- Consultas e manipulação de dados utilizando **SQL**
+- Análise e visualização de dados com **Power BI** e **Python (Pandas)**
+- Tratamento de dados e construção de dashboards para geração de insights
 
 ---
 
