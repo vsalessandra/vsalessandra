@@ -7,8 +7,7 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vsalessandra&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=vsalessandra&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
