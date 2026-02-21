@@ -6,9 +6,25 @@
 
 ---
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=vsalessandra&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=vsalessandra&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsalessandra&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsalessandra&theme=tokyonight"/>
+</p>
 
 ---
 
