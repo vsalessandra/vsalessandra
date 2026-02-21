@@ -6,25 +6,20 @@
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=vsalessandra&theme=tokyonight&hide_border=true"/>
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=true" width="100%"/>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsalessandra&theme=tokyonight"/>
-</p>
+</td>
+<td width="50%">
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&langs_count=8&theme=rose_pine&hide_border=true" width="100%"/>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsalessandra&theme=tokyonight"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
