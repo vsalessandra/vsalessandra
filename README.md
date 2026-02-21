@@ -10,12 +10,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=rose_pine" width="100%"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=rose_pine" width="100%"/>
 
 </td>
 </tr>
