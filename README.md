@@ -6,21 +6,9 @@
 
 ## 👩‍💻 Sobre mim
 
-💻 **Back-End & Web**
-- Desenvolvimento de aplicações web utilizando **Java** e **Spring Boot**
-- Criação e manutenção de **APIs REST**, implementação de operações CRUD e regras de negócio
-- Integração com **banco de dados relacional (PostgreSQL/MySQL)**
-- Versionamento de código com **Git** e organização de branches
+Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.
 
-🧪 **Testes & QA**
-- Realização de **testes manuais** para validação de correções e novas funcionalidades do sistema
-- Testes e validação de endpoints de API utilizando **Postman**
-- Identificação e reprodução de erros para apoio na correção de problemas
-
-📊 **Dados & BI**
-- Consultas e manipulação de dados utilizando **SQL**
-- Análise e visualização de dados com **Power BI** e **Python (Pandas)**
-- Tratamento de dados e construção de dashboards para geração de insights
+Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade e confiabilidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI, desenvolvendo consultas, tratando dados e construindo dashboards para geração de insights.
 
 <br>
 
