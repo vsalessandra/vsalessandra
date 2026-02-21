@@ -6,20 +6,13 @@
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=radical" width="100%"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=radical" />
 
-</td>
-<td width="50%">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=radical" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
