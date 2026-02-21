@@ -24,7 +24,7 @@
 
 <br>
 
-## 🧠 Tecnologias & Linguagens
+## 🧠 Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -35,6 +35,12 @@
   <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4da6"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=ff4da6"/>
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=ff4da6"/>
+  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=bf91f3"/>
 </div>
 
 <br>
@@ -45,19 +51,6 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff4da6"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=bf91f3"/>
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=ff4da6"/>
-</div>
-
-<br>
-
-## 🛠️ Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4da6"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=bf91f3"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=ff4da6"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=bf91f3"/>
-  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=ff4da6"/>
-  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=bf91f3"/>
 </div>
 
 <br>
