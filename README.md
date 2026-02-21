@@ -39,47 +39,6 @@
 
 ---
 
-<h1 align="center">Olá! Eu sou a Alessandra 👋✨</h1>
-
-<p align="center">
-  🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
-</p>
-
----
-
-<div align="center">
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=radical" />
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=radical" />
-
-</div>
-
----
-
-<img align="right" height="160" src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"/>
-
-## 👩‍💻 Sobre mim
-
-
-💻 **Back-End & Web**
-- Desenvolvimento de aplicações web utilizando **Java** e **Spring Boot**
-- Criação e manutenção de **APIs REST**, implementação de operações CRUD e regras de negócio
-- Integração com **banco de dados relacional (PostgreSQL/MySQL)**
-- Versionamento de código com **Git** e organização de branches
-
-🧪 **Testes & QA**
-- Realização de **testes manuais** para validação de correções e novas funcionalidades do sistema
-- Testes e validação de endpoints de API utilizando **Postman**, verificando requisições e respostas HTTP
-- Identificação e reprodução de erros para apoio na correção de problemas
-
-📊 **Dados & BI**
-- Consultas e manipulação de dados utilizando **SQL**
-- Análise e visualização de dados com **Power BI** e **Python (Pandas)**
-- Tratamento de dados e construção de dashboards para geração de insights
-
----
-
 ## 🧠 Tecnologias & Linguagens
 
 <div align="left">
