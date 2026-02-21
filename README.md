@@ -8,11 +8,9 @@
 
 <div align="center">
 
-<img height="170em" 
-src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff69b4&text_color=f8d7ff&icon_color=ff1493&border_color=800080" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=radical" />
 
-<img height="170em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&bg_color=0d1117&title_color=ff69b4&text_color=f8d7ff&border_color=800080" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=radical" />
 
 </div>
 
