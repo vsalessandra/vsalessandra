@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=dracula" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=dracula&count_private=true&cache_seconds=1" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=dracula&cache_seconds=1" height="150"/>
 </div>
 
 ---
