@@ -4,15 +4,6 @@
   🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
 </p>
 
-<div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=radical" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsalessandra&theme=radical" />
-</div>
-
-<br>
-
-<img align="right" height="160" src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"/>
-
 ## 👩‍💻 Sobre mim
 
 💻 **Back-End & Web**
