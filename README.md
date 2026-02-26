@@ -16,7 +16,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vsalessandra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="150" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 20px;" />
 </div>
 
 ## 🧠 Tecnologias & Ferramentas
