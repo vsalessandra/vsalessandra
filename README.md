@@ -59,6 +59,8 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vsalessandra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
