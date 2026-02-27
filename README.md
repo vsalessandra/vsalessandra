@@ -26,7 +26,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
   <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
-## 🧠 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -47,7 +47,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 
 <br>
 
-## 📈 Dados & Business Intelligence
+## Dados & BI
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff4da6"/>
