@@ -14,13 +14,6 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vsalessandra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
-</div>
-
 ## 🧠 Tecnologias & Ferramentas
 
 <div align="left">
@@ -64,4 +57,11 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
   <a href="https://www.instagram.com/alessandraywz">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff4da6"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vsalessandra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
