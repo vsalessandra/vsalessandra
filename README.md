@@ -58,9 +58,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 <br>
 <br>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-</div>
+<img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
 
 <div align="center">
   <a href="mailto:alessandravitoria799@gmail.com">
