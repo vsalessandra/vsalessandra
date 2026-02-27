@@ -61,7 +61,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<div align="left">
+<div align="center">
   <a href="mailto:alessandravitoria799@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
   </a>
