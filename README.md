@@ -59,7 +59,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 <br>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 </div>
 
 <div align="center">
