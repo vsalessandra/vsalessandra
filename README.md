@@ -14,7 +14,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 80px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 100px;">
   <img src="https://streak-stats.demolab.com?user=vsalessandra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
   <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
