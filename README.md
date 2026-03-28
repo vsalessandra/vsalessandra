@@ -20,9 +20,13 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dracula" height="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=dracula&locale=pt-br&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=dracula&locale=pt-br"/>
+</div>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsalessandra&theme=dracula"/>
   <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
