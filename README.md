@@ -17,11 +17,9 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, at
 
 Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade e confiabilidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI, desenvolvendo consultas, tratando dados e construindo dashboards para geração de insights.
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsalessandra&theme=dracula"/>
- <img height="150" src="https://i.imgflip.com/65efzo.gif" />
-</div>
+<br> <div align="center"> 
+<img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dracula" height="150" />
+<img height="150" src="https://i.imgflip.com/65efzo.gif" /> </div>
 
 ## Tecnologias & Ferramentas
 
