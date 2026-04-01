@@ -3,29 +3,33 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<h1 align="center" style="font-size: 2.35rem;">Olá! Eu sou a Alessandra 👋✨</h1>
+<div style="width: 72%; float: left;">
+  <h1 style="font-size: 2.35rem; margin: 6px 0 8px 0;">Olá! Eu sou a Alessandra 👋✨</h1>
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" width="200" style="border-radius: 10px; margin-left: 25px;" />
+  <blockquote style="margin: 0 0 8px 0;">🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados</blockquote>
 
-> 🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
+  <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
 
-### 👩‍💻 Sobre mim
+  <blockquote style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.</blockquote>
 
-  > Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.
+  <blockquote style="margin: 0 0 6px 0;">Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</blockquote>
+</div>
 
-> Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.
+<div style="width: 26%; float: right;" align="right">
+  <img src="https://i.imgflip.com/65efzo.gif" width="200" style="border-radius: 10px;" />
+</div>
 
-<br clear="right" />
+<br clear="both" />
 
-<br>
+<div style="height: 4px;"></div>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="31.6%" height="170" style="border: 1px solid #3f444d; border-radius: 8px; margin: 0 4px;" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="31.6%" height="170" style="border: 1px solid #3f444d; border-radius: 8px; margin: 0 4px;" />
-  <img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9" width="31.6%" height="170" style="border: 1px solid #3f444d; border-radius: 8px; margin: 0 4px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="31.6%" height="170" style="border: 1px solid #4b5563; border-radius: 8px; margin: 0 4px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="31.6%" height="170" style="border: 1px solid #4b5563; border-radius: 8px; margin: 0 4px;" />
+  <img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dark&hide_border=true&background=0D1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9" width="31.6%" height="170" style="border: 1px solid #4b5563; border-radius: 8px; margin: 0 4px;" />
 </p>
 
-<br>
+<div style="height: 4px;"></div>
 
 ### Tecnologias & Ferramentas
 
@@ -40,7 +44,7 @@
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B"/>
 </div>
 
-<div style="height: 6px;"></div>
+<div style="height: 3px;"></div>
 
 <h4 style="margin-bottom: 6px;">Ferramentas & DevOps</h4>
 <div align="left" style="margin-top: 0;">
@@ -56,7 +60,7 @@
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
 </div>
 
-<div style="height: 6px;"></div>
+<div style="height: 3px;"></div>
 
 <h4 style="margin-bottom: 6px;">Dados & BI</h4>
 <div align="left" style="margin-top: 0;">
@@ -67,7 +71,6 @@
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
 </div>
 
-<br>
 <br>
 
 <img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
