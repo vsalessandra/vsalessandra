@@ -1,8 +1,3 @@
-<img width="807" height="403" alt="image" src="https://github.com/user-attachments/assets/f5843929-7a58-44d5-a377-26de340afe55" /><div>
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
-</div>
-
 <img align="right" src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 10px; margin-left: 16px; object-fit: contain;" />
 
 <div style="width: 74%;">
