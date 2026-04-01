@@ -9,34 +9,17 @@
   🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
 </p>
 
----
+
 
 ## 👩‍💻 Sobre mim
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="65%" style="font-size: 13px;">
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.
 
 Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=radical&title_color=ff4da6&icon_color=ff4da6&text_color=ffffff&bg_color=0d1117" />
-
-<img height="150" src="https://streak-stats.demolab.com?user=vsalessandra&theme=radical&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=radical&title_color=ff4da6&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
----
+<br> <div align="center"> 
+<img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dracula" height="150" />
+<img height="150" src="https://i.imgflip.com/65efzo.gif" /> </div>
 
 ## Tecnologias & Ferramentas
 
@@ -57,7 +40,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
   <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=bf91f3"/>
 </div>
 
----
+<br>
 
 ## Dados & BI
 
@@ -67,13 +50,10 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=ff4da6"/>
 </div>
 
----
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
-
----
-
-## 📫 Contato
 
 <div align="center">
   <a href="mailto:alessandravitoria799@gmail.com">
