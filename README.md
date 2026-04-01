@@ -1,4 +1,4 @@
-<div>
+<img width="807" height="403" alt="image" src="https://github.com/user-attachments/assets/f5843929-7a58-44d5-a377-26de340afe55" /><div>
   <img width="100%" 
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
@@ -9,8 +9,7 @@
   <h1 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h1>
   <p style="margin: 0 0 0px 0;"> 🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados</p>
   <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
-  <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.</p>
-  <p style="margin: 0 0 6px 0;">Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
+  <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados como PostgreSQL e MySQL, utilizando Git para versionamento. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
 </div>
 
 <br clear="right" />
