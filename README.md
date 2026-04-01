@@ -11,7 +11,7 @@
 
 
 
-# 👩‍💻 Sobre mim
+### 👩‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.
 
@@ -21,7 +21,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 <img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dracula" height="150" />
 <img height="150" src="https://i.imgflip.com/65efzo.gif" /> </div>
 
-# Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -42,7 +42,7 @@ Também possuo experiência em testes e validação de funcionalidades, realizan
 
 <br>
 
-# Dados & BI
+### Dados & BI
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff4da6"/>
