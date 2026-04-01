@@ -3,23 +3,20 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<div style="width: 72%; float: left;">
-  <h1 style="font-size: 2.35rem; margin: 6px 0 8px 0;">Olá! Eu sou a Alessandra 👋✨</h1>
-
-  <blockquote style="margin: 0 0 8px 0;">🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados</blockquote>
-
-  <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
-
-  <blockquote style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.</blockquote>
-
-  <blockquote style="margin: 0 0 6px 0;">Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</blockquote>
-</div>
-
-<div style="width: 26%; float: right;" align="right">
-  <img src="https://i.imgflip.com/65efzo.gif" width="200" style="border-radius: 10px;" />
-</div>
-
-<br clear="both" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="74%" valign="top" style="border: none; padding-right: 16px;">
+      <h1 style="font-size: 2.35rem; margin: 6px 0 8px 0;">Olá! Eu sou a Alessandra 👋✨</h1>
+      <p style="margin: 0 0 8px 0;">🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados</p>
+      <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
+      <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.</p>
+      <p style="margin: 0 0 6px 0;">Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
+    </td>
+    <td width="26%" valign="top" align="right" style="border: none;">
+      <img src="https://i.imgflip.com/65efzo.gif" width="200" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <div style="height: 4px;"></div>
 
