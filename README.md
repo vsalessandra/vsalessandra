@@ -22,26 +22,17 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, at
 
 Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.
 
-      </td>
-
-      <td align="center">
-        <img src="https://i.imgflip.com/65efzo.gif" width="140"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=radical&title_color=ff4da6&icon_color=ff4da6&text_color=ffffff&bg_color=0d1117" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=radical&title_color=ff4da6&icon_color=ff4da6&text_color=ffffff&bg_color=0d1117" />
 
-<img height="140" src="https://github-readme-streak-stats.herokuapp.com?user=vsalessandra&theme=radical&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" />
+<img height="150" src="https://streak-stats.demolab.com?user=vsalessandra&theme=radical&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" />
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=radical&title_color=ff4da6" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=radical&title_color=ff4da6&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
