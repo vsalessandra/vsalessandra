@@ -3,7 +3,7 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 10px; margin-left: 16px; object-fit: contain;" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" style="border-radius: 10px; margin-left: 16px; object-fit: contain;" />
 
 <div style="width: 74%;">
   <h1 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h1>
@@ -14,6 +14,18 @@
 </div>
 
 <br clear="right" />
+
+<div align="center">
+  <a href="mailto:alessandravitoria799@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alessandra-vitoria-daniel-b16669301">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=bf91f3"/>
+  </a>
+  <a href="https://www.instagram.com/alessandraywz">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff4da6"/>
+  </a>
+</div>
 
 <div style="height: 4px;"></div>
 
@@ -41,15 +53,3 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
-
-<div align="center">
-  <a href="mailto:alessandravitoria799@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alessandra-vitoria-daniel-b16669301">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=bf91f3"/>
-  </a>
-  <a href="https://www.instagram.com/alessandraywz">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff4da6"/>
-  </a>
-</div>
