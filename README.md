@@ -18,12 +18,13 @@
 <div style="height: 4px;"></div>
 
 ### Tecnologias & Ferramentas
-<div align="right" style="width: 36%; float: right; margin-left: 14px;">
+<div style="overflow: hidden;">
+<div align="right" style="width: 33%; float: right;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" height="190" style="border: 1px solid #4b5563; border-radius: 8px; margin-bottom: 8px;"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" height="190" style="border: 1px solid #4b5563; border-radius: 8px; margin-bottom: 8px;"/>
 </div>
 
-<div style="width: 62%; float: left;">
+<div style="width: 65%; float: left;">
   <p><strong>Desenvolvimento</strong></p>
   <p><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B"/></p>
 
@@ -32,6 +33,8 @@
 
   <p><strong>Dados & BI</strong></p>
   <p><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346"/></p>
+</div>
+
 </div>
 
 <br clear="right" />
