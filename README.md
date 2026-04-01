@@ -9,51 +9,64 @@
   🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados
 </p>
 
+---
 
-
-## 👩‍💻 Sobre mim
+## <small>Sobre mim</small>
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot. Tenho experiência no desenvolvimento de APIs REST, implementação de regras de negócio e integração com bancos de dados relacionais como PostgreSQL e MySQL, utilizando Git para versionamento e organização do código.
 
 Também possuo experiência em testes e validação de funcionalidades, realizando testes manuais e teste de API para garantir qualidade e confiabilidade das aplicações. Além disso, tenho base em análise de dados utilizando SQL, Python (Pandas) e Power BI, desenvolvendo consultas, tratando dados e construindo dashboards para geração de insights.
 
-<br> <div align="center"> 
-<img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dracula" height="150" />
-<img height="150" src="https://i.imgflip.com/65efzo.gif" /> </div>
+---
 
-## Tecnologias & Ferramentas
+<div align="center">
+  <!-- GitHub Streak GIF -->
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" style="margin-right: 20px;" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&count_private=true&theme=dracula" height="150" />
+</div>
 
+---
+
+### Desenvolvimento
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B"/>
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+</div>
+
+### Dados & BI
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=ff4da6"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff4da6"/>
+</div>
+
+### Ferramentas & DevOps
+<div align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4da6"/>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=bf91f3"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=ff4da6"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=bf91f3"/>
-  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=ff4da6"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=apirest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=bf91f3"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=ff4da6"/>
 </div>
 
-<br>
+---
 
-## Dados & BI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff4da6"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=bf91f3"/>
-  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=ff4da6"/>
-</div>
+---
 
-<br>
-<br>
-
-<img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
+## <small>Contato</small>
 
 <div align="center">
   <a href="mailto:alessandravitoria799@gmail.com">
