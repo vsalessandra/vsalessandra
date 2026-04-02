@@ -14,7 +14,7 @@
 
 <br clear="right" />
 
-<div style="margin-top: 6px;" align="left">
+<div style="margin-top: 3px;" align="left">
   <h3 style="margin: 6px 0;">📫 Contatos</h3>
   <a href="mailto:alessandravitoria799@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
@@ -29,13 +29,13 @@
 
 <div style="height: 4px;"></div>
 
-<div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="32%" style="height: 176px; display: inline-block; vertical-align: top; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="32%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
-<img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dark&hide_border=true&background=0d1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" width="32%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
+<div style="width: 56%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="31%" style="height: 184px; display: inline-block; vertical-align: top; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="31%" style="height: 184px; display: inline-block; vertical-align: top; margin-left: 1.5%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
+<img src="https://streak-stats.demolab.com?user=vsalessandra&theme=dark&hide_border=true&background=0d1117&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" width="31%" style="height: 184px; display: inline-block; vertical-align: top; margin-left: 1.5%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
 </div>
 
-<div style="width: 48%; padding-right: 12px;">
+<div style="width: 44%; padding-right: 12px;">
 
 ### Tecnologias & Ferramentas
 
@@ -56,4 +56,4 @@
 
 <br clear="right" />
 
-<img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
+<div style="margin-top: -3px"><img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" /></div>
