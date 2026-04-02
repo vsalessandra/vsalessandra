@@ -33,10 +33,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
 </div>
 
-<div style="width: 52%; float: right; margin-left: 12px; margin-top: 8px;">
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" style="max-width: 420px; border-radius: 10px; object-fit: contain;" />
-</div>
-
 <div style="width: 48%; padding-right: 12px;">
 
 ### Technologies & Tools
