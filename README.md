@@ -3,8 +3,6 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="22%" style="max-width: 170px; border-radius: 10px; object-fit: contain; margin-left: 48px;" />
-
 <div style="width: 50%;">
   <h3 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h3>
   <p style="margin: 0 0 0px 0;"> 💻Engenharia de Software, Desenvolvimento Back-End & Análise de Dados</p>
@@ -47,6 +45,10 @@
 <p style="font-size: 1.24rem;"><strong>Dados & BI</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6"/></p>
 <p style="font-size: 1.14rem; margin: 0;"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346"/></p>
+</div>
+
+<div style="width: 18%; float: right; margin-top: 10px; margin-left: 12px;">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="max-width: 170px; border-radius: 10px; object-fit: contain;" />
 </div>
 
 <br clear="right" />
