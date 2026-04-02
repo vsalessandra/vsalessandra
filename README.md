@@ -3,7 +3,7 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="30%" style="max-width: 320px; border-radius: 10px; object-fit: contain; margin-left: 17px;" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="30%" style="max-width: 320px; border-radius: 10px; object-fit: contain; margin-left: 24px;" />
 
 <div style="width: 60%;">
   <h3 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h3>
@@ -31,17 +31,12 @@
 
 ### Tecnologias & Ferramentas
 
-<div style="width: 45%; float: right; margin-left: 12px;">
-<div style="width: 49%; float: left;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" height="176" style="border: 1px solid #8b97ab; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
-</div>
-<div style="width: 49%; float: right;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" height="176" style="border: 1px solid #8b97ab; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
-</div>
-<div style="clear: both;"></div>
+<div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; border: 1px solid #8b97ab; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 1px solid #8b97ab; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
 </div>
 
-<div style="width: 55%; padding-right: 12px;">
+<div style="width: 48%; padding-right: 12px;">
 
 <p style="font-size: 1.24rem;"><strong>Desenvolvimento</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/></p>
