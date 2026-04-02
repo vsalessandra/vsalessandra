@@ -49,12 +49,16 @@
 </div>
 
 <div style="width: 22%; display: inline-block; vertical-align: top; margin-left: 2%;">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="max-width: 170px; border-radius: 10px; object-fit: contain; margin-top: 28px;" />
+</div>
+
+<div style="width: 100%; clear: both; height: 0;"></div>
+
+<div style="width: 100%; margin-top: 10px;">
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Dados & BI</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6"/></p>
 <p style="font-size: 1.14rem; margin: 0;"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346"/></p>
 </div>
-
-<div style="width: 100%; clear: both; height: 0;"></div>
 </div>
 
 
