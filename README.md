@@ -6,7 +6,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" style="border-radius: 10px; margin-left: 16px; object-fit: contain;" />
 
 <div style="width: 74%;">
-  # Olá! Eu sou a Alessandra 👋✨
+  <p style="font-size: 34px; font-weight: bold; margin: 6px 0 8px 0;">
+  Olá! Eu sou a Alessandra 👋✨
+</p>
   <p style="margin: 0 0 0px 0;"> 🎓 Estudante de Engenharia de Software</p> 
   <p style="margin: 0 0 0px 0;"> 💻 Desenvolvimento Back-End & Análise de Dados</p>
   <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
