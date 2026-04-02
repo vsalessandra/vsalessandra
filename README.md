@@ -10,22 +10,21 @@
   <p style="margin: 0 0 0px 0;"> 💻Software Engineering, Back-End Development & Data Analysis</p>
   <h3 style="margin: 6px 0;">👩‍💻 About me</h3>
   <p style="margin: 0 0 6px 0;">I am a Software Engineering student focusing on Back-End development, working on the creation of web applications with Java and Spring Boot, development of REST APIs, and database integration, using tools such as Git and Docker. I also have experience in manual and API testing, as well as knowledge in data analysis with SQL, Python (Pandas), and Power BI for data processing and dashboard creation.</p>
+  <div style="margin-top: 2px;" align="left">
+    <h3 style="margin: 6px 0;">📫 Contatos</h3>
+    <a href="mailto:alessandravitoria799@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
+    </a>
+    <a href="https://www.linkedin.com/in/alessandra-vitoria-daniel-b16669301">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=bf91f3"/>
+    </a>
+    <a href="https://www.instagram.com/alessandraywz">
+      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff4da6"/>
+    </a>
+  </div>
 </div>
 
 <br clear="right" />
-
-<div style="margin-top: 0px;" align="left">
-  <h3 style="margin: 6px 0;">📫 Contatos</h3>
-  <a href="mailto:alessandravitoria799@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alessandra-vitoria-daniel-b16669301">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=bf91f3"/>
-  </a>
-  <a href="https://www.instagram.com/alessandraywz">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff4da6"/>
-  </a>
-</div>
 
 <div style="height: 4px;"></div>
 
