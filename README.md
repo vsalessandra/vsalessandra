@@ -7,7 +7,8 @@
 
 <div style="width: 74%;">
   <h1 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h1>
-  <p style="margin: 0 0 0px 0;"> 🎓 Estudante de Engenharia de Software • 💻 Desenvolvimento Back-End & Análise de Dados</p>
+  <p style="margin: 0 0 0px 0;"> 🎓 Estudante de Engenharia de Software</p> 
+  <p style="margin: 0 0 0px 0;"> 💻 Desenvolvimento Back-End & Análise de Dados</p>
   <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
   <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados como PostgreSQL e MySQL, utilizando Git para versionamento. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
 </div>
