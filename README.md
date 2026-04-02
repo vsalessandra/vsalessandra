@@ -9,7 +9,7 @@
   <h3 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h3>
   <p style="margin: 0 0 0px 0;"> 💻Engenharia de Software, Desenvolvimento Back-End & Análise de Dados</p>
   <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
-  <p>Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End</p><p>atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento</p><p>de APIs REST e integração com bancos de dados, utilizando ferramentas como Git e Docker.</p><p>Também possuo experiência em testes manuais e de API, além de conhecimentos</p><p>em análise de dados com SQL, Python (Pandas) e Power BI</p>para tratamento de dados e construção de dashboards.</p>
+  <p>Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End</p> atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados, utilizando ferramentas como Git e Docker. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
 </div>
 
 <br clear="right" />
@@ -30,12 +30,8 @@
 <div style="height: 4px;"></div>
 
 <div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
-<div style="width: 49%; display: inline-block; vertical-align: top; border: 1px solid #9ca3af; border-radius: 16px; padding: 4px; background: #0d1117; box-shadow: 0 0 0 1px rgba(156,163,175,0.16);">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" style="height: 176px; display: block; border-radius: 11px;"/>
-</div>
-<div style="width: 49%; display: inline-block; vertical-align: top; margin-left: 2%; border: 1px solid #9ca3af; border-radius: 16px; padding: 4px; background: #0d1117; box-shadow: 0 0 0 1px rgba(156,163,175,0.16);">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" style="height: 176px; display: block; border-radius: 11px;"/>
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
 </div>
 
 <div style="width: 48%; padding-right: 12px;">
