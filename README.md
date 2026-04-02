@@ -7,14 +7,14 @@
 
 <div style="width: 50%;">
   <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Hello! I am Alessandra 👋✨</h3>
-  <p style="margin: 0 0 0px 0;"> 💻Software Engineering, Back-End Development & Data Analysiss</p>
+  <p style="margin: 0 0 0px 0;"> 💻Software Engineering, Back-End Development & Data Analysis</p>
   <h3 style="margin: 6px 0;">👩‍💻 About me</h3>
   <p style="margin: 0 0 6px 0;">I am a Software Engineering student focusing on Back-End development, working on the creation of web applications with Java and Spring Boot, development of REST APIs, and database integration, using tools such as Git and Docker. I also have experience in manual and API testing, as well as knowledge in data analysis with SQL, Python (Pandas), and Power BI for data processing and dashboard creation.</p>
 </div>
 
 <br clear="right" />
 
-<div style="margin-top: 2px;" align="left">
+<div style="margin-top: 0px;" align="left">
   <h3 style="margin: 6px 0;">📫 Contatos</h3>
   <a href="mailto:alessandravitoria799@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
@@ -41,7 +41,7 @@
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Development</strong></p>
 <p style="font-size: 1.12rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" style="height: 22px;"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" style="height: 22px;"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" style="height: 22px;"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" style="height: 22px;"/><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" style="height: 22px;"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F" style="height: 22px;"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" style="height: 22px;"/></p>
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>IDEs & Tools</strong></p>
-<p style="font-size: 1.12rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 22px;"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6" style="height: 22px;"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" style="height: 22px;"/></p>
+<p style="font-size: 1.12rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 22px;"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6" style="height: 22px;"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" style="height: 22px;"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" style="height: 22px;"/> <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28" style="height: 22px;"/> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=ff4da6" style="height: 22px;"/></p>
 
 <div style="width: 100%; margin-top: 10px; background: transparent !important; box-shadow: none !important; outline: none !important;">
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Data & BI</strong></p>
