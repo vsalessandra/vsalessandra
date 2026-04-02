@@ -3,7 +3,7 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="30%" style="max-width: 320px; border-radius: 10px; object-fit: contain; margin-left: 24px;" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="27%" style="max-width: 220px; border-radius: 10px; object-fit: contain; margin-left: 24px;" />
 
 <div style="width: 60%;">
   <h3 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h3>
@@ -30,8 +30,8 @@
 <div style="height: 4px;"></div>
 
 <div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; border: 1px solid #6b7077; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 1px solid #6b7077; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);"/>
 </div>
 
 <div style="width: 48%; padding-right: 12px;">
@@ -50,7 +50,5 @@
 </div>
 
 <br clear="right" />
-
-<br>
 
 <img src="https://raw.githubusercontent.com/vsalessandra/vsalessandra/output/github-contribution-grid-snake-dark.svg" />
