@@ -14,7 +14,7 @@
 
 <br clear="right" />
 
-<div style="margin-top: 6px;" align="left">
+<div style="margin-top: 2px;" align="left">
   <h3 style="margin: 6px 0;">📫 Contatos</h3>
   <a href="mailto:alessandravitoria799@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4da6"/>
