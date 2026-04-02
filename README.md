@@ -3,12 +3,13 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="24%" style="max-width: 220px; border-radius: 10px; object-fit: contain; margin-left: 28px;" />
+
 <div style="width: 50%;">
-  <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h3>
-  <p style="margin: 0 0 0px 0;"> 💻Engenharia de Software, Desenvolvimento Back-End & Análise de Dados</p>
-  <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
-  <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados, utilizando ferramentas como Git e Docker. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzUxNzEzMDIsIm5iZiI6MTc3NTE3MTAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDAyVDIzMDMyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlZjgzYmEwZjI3NzQ1NDk1OTc4MjI4ZTM5NGFkMjNkOWU5NjEwNThhNzAyOTYxY2QyMGIyZmNlMWI2YTk1ZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CqDNNUma0MB7Di2stqtACTGi-d9FYpMyI6uOlB2jQRE" width="100%" style="max-width: 360px; border-radius: 10px; margin-top: 10px; object-fit: contain;" />
+  <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Hello! I am Alessandra 👋✨</h3>
+  <p style="margin: 0 0 0px 0;"> 💻Software Engineering, Back-End Development & Data Analysiss</p>
+  <h3 style="margin: 6px 0;">👩‍💻 About me</h3>
+  <p style="margin: 0 0 6px 0;">I am a Software Engineering student focusing on Back-End development, working on the creation of web applications with Java and Spring Boot, development of REST APIs, and database integration, using tools such as Git and Docker. I also have experience in manual and API testing, as well as knowledge in data analysis with SQL, Python (Pandas), and Power BI for data processing and dashboard creation.</p>
 </div>
 
 <br clear="right" />
@@ -35,17 +36,17 @@
 
 <div style="width: 48%; padding-right: 12px;">
 
-### Tecnologias & Ferramentas
+### Technologies & Tools
 
-<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>Desenvolvimento</strong></p>
+<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>Development</strong></p>
 <p style="font-size: 1.22rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" style="height: 26px;"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" style="height: 26px;"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" style="height: 26px;"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" style="height: 26px;"/></p>
 <p style="font-size: 1.22rem; margin: 0 0 8px 0;"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" style="height: 26px;"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F" style="height: 26px;"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" style="height: 26px;"/></p>
-<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>IDEs e ferramentas</strong></p>
+<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>IDEs & Tools</strong></p>
 <p style="font-size: 1.22rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=bf91f3" style="height: 26px;"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3" style="height: 26px;"/> <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3" style="height: 26px;"/></p>
 <p style="font-size: 1.22rem; margin: 0;"><img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 26px;"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6" style="height: 26px;"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" style="height: 26px;"/></p>
 
 <div style="width: 100%; margin-top: 10px; background: transparent !important; box-shadow: none !important; outline: none !important;">
-<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>Dados & BI</strong></p>
+<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>Data & BI</strong></p>
 <p style="font-size: 1.22rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6" style="height: 26px;"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6" style="height: 26px;"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6" style="height: 26px;"/></p>
 <p style="font-size: 1.22rem; margin: 0;"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458" style="height: 26px;"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346" style="height: 26px;"/></p>
 </div>
