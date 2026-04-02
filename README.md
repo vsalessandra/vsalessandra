@@ -3,14 +3,14 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<img align="right" src="https://camo.githubusercontent.com/3bead0ca844ec888f5bd0322a010a099cd405324790c2112818f611cc9af9123/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f736c6f6d6f706172726f742e676966" width="26%" style="max-width: 240px; border-radius: 10px; object-fit: contain; margin-left: 28px; filter: hue-rotate(305deg) saturate(1.35) brightness(1.06);" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="26%" style="max-width: 240px; border-radius: 10px; object-fit: contain; margin-left: 28px; filter: hue-rotate(305deg) saturate(1.35) brightness(1.06);" />
 
 <div style="width: 50%;">
   <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Hello! I am Alessandra 👋✨</h3>
   <p style="margin: 0 0 0px 0;"> 💻Software Engineering, Back-End Development & Data Analysiss</p>
   <h3 style="margin: 6px 0;">👩‍💻 About me</h3>
   <p style="margin: 0 0 6px 0;">I am a Software Engineering student focusing on Back-End development, working on the creation of web applications with Java and Spring Boot, development of REST APIs, and database integration, using tools such as Git and Docker. I also have experience in manual and API testing, as well as knowledge in data analysis with SQL, Python (Pandas), and Power BI for data processing and dashboard creation.</p>
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" style="max-width: 360px; border-radius: 10px; margin-top: 10px; object-fit: contain;" />
+  <img src="https://camo.githubusercontent.com/3bead0ca844ec888f5bd0322a010a099cd405324790c2112818f611cc9af9123/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f736c6f6d6f706172726f742e676966" width="100%" style="max-width: 360px; border-radius: 10px; margin-top: 10px; object-fit: contain;" />
 </div>
 
 <br clear="right" />
