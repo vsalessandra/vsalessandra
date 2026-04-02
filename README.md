@@ -3,6 +3,8 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="24%" style="max-width: 220px; border-radius: 10px; object-fit: contain; margin-left: 28px;" />
+
 <div style="width: 50%;">
   <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h3>
   <p style="margin: 0 0 0px 0;"> 💻Engenharia de Software, Desenvolvimento Back-End & Análise de Dados</p>
@@ -36,26 +38,17 @@
 
 ### Tecnologias & Ferramentas
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0 !important; background: transparent !important; box-shadow: none !important; outline: none !important;">
-<tr style="border: 0 !important; background: transparent !important; box-shadow: none !important; outline: none !important;">
-<td width="64%" valign="top" style="border: 0 !important; background: transparent !important; padding-right: 12px; box-shadow: none !important; outline: none !important;">
-<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>Desenvolvimento</strong></p>
-<p style="font-size: 1.22rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" style="height: 26px;"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" style="height: 26px;"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" style="height: 26px;"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" style="height: 26px;"/></p>
-<p style="font-size: 1.22rem; margin: 0 0 8px 0;"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" style="height: 26px;"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F" style="height: 26px;"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" style="height: 26px;"/></p>
-<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>IDEs e ferramentas</strong></p>
-<p style="font-size: 1.22rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=bf91f3" style="height: 26px;"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3" style="height: 26px;"/> <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3" style="height: 26px;"/></p>
-<p style="font-size: 1.22rem; margin: 0;"><img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 26px;"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6" style="height: 26px;"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" style="height: 26px;"/></p>
-</td>
-<td width="36%" valign="top" align="right" style="border: 0 !important; background: transparent !important; box-shadow: none !important; outline: none !important;">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="max-width: 280px; border-radius: 10px; object-fit: contain; margin-top: 18px; background: transparent;" />
-</td>
-</tr>
-</table>
+<p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Desenvolvimento</strong></p>
+<p style="font-size: 1.12rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" style="height: 22px;"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" style="height: 22px;"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" style="height: 22px;"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" style="height: 22px;"/></p>
+<p style="font-size: 1.12rem; margin: 0 0 8px 0;"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" style="height: 22px;"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F" style="height: 22px;"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" style="height: 22px;"/></p>
+<p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>IDEs e ferramentas</strong></p>
+<p style="font-size: 1.12rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3" style="height: 22px;"/> <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3" style="height: 22px;"/></p>
+<p style="font-size: 1.12rem; margin: 0;"><img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 22px;"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6" style="height: 22px;"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" style="height: 22px;"/></p>
 
 <div style="width: 100%; margin-top: 10px; background: transparent !important; box-shadow: none !important; outline: none !important;">
-<p style="font-size: 1.38rem; margin: 0 0 4px 0;"><strong>Dados & BI</strong></p>
-<p style="font-size: 1.22rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6" style="height: 26px;"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6" style="height: 26px;"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6" style="height: 26px;"/></p>
-<p style="font-size: 1.22rem; margin: 0;"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458" style="height: 26px;"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346" style="height: 26px;"/></p>
+<p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Dados & BI</strong></p>
+<p style="font-size: 1.12rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6" style="height: 22px;"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6" style="height: 22px;"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6" style="height: 22px;"/></p>
+<p style="font-size: 1.12rem; margin: 0;"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458" style="height: 22px;"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346" style="height: 22px;"/></p>
 </div>
 </div>
 
