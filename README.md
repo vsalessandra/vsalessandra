@@ -6,7 +6,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" style="border-radius: 10px; margin-left: 16px; object-fit: contain;" />
 
 <div style="width: 74%;">
-  <h1 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h1>
+  <p style="font-size: 2.1rem; font-weight: bold; margin: 6px 0 8px 0;">
+  Olá! Eu sou a Alessandra 👋✨
+</p>
   <p style="margin: 0 0 0px 0;"> 🎓 Estudante de Engenharia de Software</p> 
   <p style="margin: 0 0 0px 0;"> 💻 Desenvolvimento Back-End & Análise de Dados</p>
   <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
@@ -31,7 +33,7 @@
 <div style="height: 4px;"></div>
 
 ### Tecnologias & Ferramentas
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-color: #0d1117;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-color: #0d111700;">
 <tr>
 <td width="55%" valign="top" style="padding-right: 12px; border-color: #0d1117;">
 <p style="font-size: 1.12rem;"><strong>Desenvolvimento</strong></p>
