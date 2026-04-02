@@ -3,15 +3,15 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-color: #0d111700;">
-<tr>
-<td width="60%" valign="top" style="padding-right: 14px; border-color: #0d1117;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="60%" valign="top" style="padding-right: 14px; border: none;">
   <h2 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h2>
   <p style="margin: 0 0 0px 0;"> 💻Engenharia de Software, Desenvolvimento Back-End & Análise de Dados</p>
   <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
   <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados como PostgreSQL e MySQL, utilizando Git para versionamento. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
 </td>
-<td width="40%" valign="top" align="right" style="border-color: #0d1117;">
+<td width="40%" valign="top" align="right" style="border: none;">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="max-width: 320px; border-radius: 10px; object-fit: contain;" />
 </td>
 </tr>
@@ -33,9 +33,9 @@
 <div style="height: 4px;"></div>
 
 ### Tecnologias & Ferramentas
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-color: #0d111700;">
-<tr>
-<td width="55%" valign="top" style="padding-right: 12px; border-color: #0d111700;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="55%" valign="top" style="padding-right: 12px; border: none;">
 
 <p style="font-size: 1.12rem;"><strong>Desenvolvimento</strong></p>
 <p style="font-size: 1.05rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/></p>
@@ -47,7 +47,7 @@
 <p style="font-size: 1.05rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6"/></p>
 <p style="font-size: 1.05rem; margin: 0;"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346"/></p>
 </td>
-<td width="45%" valign="top" align="right" style="border-color: #0d1117;">
+<td width="45%" valign="top" align="right" style="border: none;">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" height="176" style="border: 1px solid #4b5563; border-radius: 8px; margin-bottom: 8px;"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="100%" height="176" style="border: 1px solid #4b5563; border-radius: 8px; margin-bottom: 8px;"/>
 </td>
