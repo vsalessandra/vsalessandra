@@ -36,23 +36,21 @@
 
 ### Tecnologias & Ferramentas
 
-<div style="width: 37%; display: inline-block; vertical-align: top;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="78%" valign="top" style="border: none; padding-right: 12px;">
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Desenvolvimento</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/></p>
-<p style="font-size: 1.14rem; margin: 0;"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B"/></p>
-</div>
-
-<div style="width: 37%; display: inline-block; vertical-align: top; margin-left: 2%;">
+<p style="font-size: 1.14rem; margin: 0 0 8px 0;"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B"/></p>
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>IDEs e ferramentas</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3"/></p>
 <p style="font-size: 1.14rem; margin: 0;"><img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E"/></p>
-</div>
-
-<div style="width: 22%; display: inline-block; vertical-align: top; margin-left: 2%;">
+</td>
+<td width="22%" valign="top" align="right" style="border: none;">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="max-width: 170px; border-radius: 10px; object-fit: contain; margin-top: 28px;" />
-</div>
-
-<div style="width: 100%; clear: both; height: 0;"></div>
+</td>
+</tr>
+</table>
 
 <div style="width: 100%; margin-top: 10px;">
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Dados & BI</strong></p>
