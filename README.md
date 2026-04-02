@@ -38,15 +38,23 @@
 
 ### Tecnologias & Ferramentas
 
-<p style="font-size: 1.24rem;"><strong>Desenvolvimento</strong></p>
+<div style="width: 49%; display: inline-block; vertical-align: top;">
+<p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Desenvolvimento</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/></p>
 <p style="font-size: 1.14rem; margin: 0 0 8px 0;"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B"/></p>
-<p style="font-size: 1.24rem;"><strong>Ferramentas & DevOps</strong></p>
-<p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E"/></p>
-<p style="font-size: 1.14rem; margin: 0 0 8px 0;"><img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28"/></p>
-<p style="font-size: 1.24rem;"><strong>Dados & BI</strong></p>
+
+<p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>IDEs e ferramentas</strong></p>
+<p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E"/></p>
+<p style="font-size: 1.14rem; margin: 0;"><img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3"/></p>
+</div>
+
+<div style="width: 49%; display: inline-block; vertical-align: top; margin-left: 2%;">
+<p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>DevOps</strong></p>
+<p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=bf91f3"/> <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28"/></p>
+<p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Dados & BI</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=ff4da6"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff4da6"/></p>
 <p style="font-size: 1.14rem; margin: 0;"><img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=217346"/></p>
+</div>
 </div>
 
 <br clear="right" />
