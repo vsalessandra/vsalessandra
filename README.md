@@ -3,7 +3,7 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="26%" style="max-width: 240px; border-radius: 10px; object-fit: contain; margin-left: 28px; filter: hue-rotate(305deg) saturate(1.35) brightness(1.06);" />
+<img align="right" src="https://camo.githubusercontent.com/3bead0ca844ec888f5bd0322a010a099cd405324790c2112818f611cc9af9123/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f736c6f6d6f706172726f742e676966" width="26%" style="max-width: 240px; border-radius: 10px; object-fit: contain; margin-left: 28px; filter: hue-rotate(305deg) saturate(1.35) brightness(1.06);" />
 
 <div style="width: 50%;">
   <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Hello! I am Alessandra 👋✨</h3>
