@@ -29,14 +29,14 @@
 
 <div style="height: 4px;"></div>
 
-### Tecnologias & Ferramentas
-
 <div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; border: 1px solid #8b97ab; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 1px solid #8b97ab; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; border: 1px solid #6b7077; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 1px solid #6b7077; border-radius: 12px; box-shadow: 0 0 0 1px rgba(139,151,171,0.18);"/>
 </div>
 
 <div style="width: 48%; padding-right: 12px;">
+
+### Tecnologias & Ferramentas
 
 <p style="font-size: 1.24rem;"><strong>Desenvolvimento</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/></p>
