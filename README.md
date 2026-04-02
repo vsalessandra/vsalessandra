@@ -3,14 +3,19 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" style="border-radius: 10px; margin-left: 16px; object-fit: contain;" />
-
-<div style="width: 74%;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-color: #0d111700;">
+<tr>
+<td width="60%" valign="top" style="padding-right: 14px; border-color: #0d1117;">
   <h2 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h2>
   <p style="margin: 0 0 0px 0;"> 💻Engenharia de Software, Desenvolvimento Back-End & Análise de Dados</p>
   <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
   <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados como PostgreSQL e MySQL, utilizando Git para versionamento. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</p>
-</div>
+</td>
+<td width="40%" valign="top" align="right" style="border-color: #0d1117;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="max-width: 320px; border-radius: 10px; object-fit: contain;" />
+</td>
+</tr>
+</table>
 
 <div style="margin-top: 6px;" align="left">
   <h3 style="margin: 6px 0;">📫 Contatos</h3>
@@ -24,8 +29,6 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff4da6"/>
   </a>
 </div>
-
-<br clear="right" />
 
 <div style="height: 4px;"></div>
 
