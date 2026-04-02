@@ -38,7 +38,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td width="78%" valign="top" style="border: none; padding-right: 12px;">
+<td width="55%" valign="top" style="border: none; padding-right: 12px;">
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>Desenvolvimento</strong></p>
 <p style="font-size: 1.14rem; margin: 0 0 4px 0;"><img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/></p>
 <p style="font-size: 1.14rem; margin: 0 0 8px 0;"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B"/></p>
