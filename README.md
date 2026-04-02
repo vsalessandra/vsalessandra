@@ -6,10 +6,10 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td width="60%" valign="top" style="padding-right: 14px; border: none;">
-  <h2 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h2>
-  <blockquote>💻Desenvolvimento Back-End & Análise de Dados<blockquote>
-  <h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
-  <blockquote>Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados como PostgreSQL e MySQL, utilizando Git para versionamento. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</blockquote>
+<h2 style="font-size: 2.10rem; margin: 6px 0 8px 0; border-bottom: 0; padding-bottom: 0;">Olá! Eu sou a Alessandra 👋✨</h2>
+<blockquote>💻Desenvolvimento Back-End & Análise de Dados<blockquote>
+<h3 style="margin: 6px 0;">👩‍💻 Sobre mim</h3>
+<blockquote>Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End, atuando na criação de aplicações web com Java e Spring Boot, desenvolvimento de APIs REST e integração com bancos de dados como PostgreSQL e MySQL, utilizando Git para versionamento. Também possuo experiência em testes manuais e de API, além de conhecimentos em análise de dados com SQL, Python (Pandas) e Power BI para tratamento de dados e construção de dashboards.</blockquote>
 
 </td>
 <td width="40%" valign="top" align="right" style="border: none;">
