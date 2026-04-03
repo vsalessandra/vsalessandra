@@ -3,6 +3,7 @@
        src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:ff4da6,100:bd93f9" />
 </div>
 
+<div style="padding: 10px 12px; border: 1px solid rgba(255, 77, 166, 0.45); border-radius: 16px; box-shadow: 0 0 0 1px rgba(191, 145, 243, 0.20), 0 8px 20px rgba(255, 77, 166, 0.08); background: linear-gradient(135deg, rgba(255, 77, 166, 0.06), rgba(191, 145, 243, 0.04));">
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30%" style="max-width: 240px; border-radius: 10px; object-fit: contain; margin-left: 28px; filter: hue-rotate(305deg) saturate(1.35) brightness(1.06);" />
 
 <div style="width: 50%;">
@@ -25,6 +26,7 @@
 </div>
 
 <br clear="right" />
+</div>
 
 <div style="height: 4px;"></div>
 
