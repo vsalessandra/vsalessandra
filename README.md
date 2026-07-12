@@ -47,15 +47,23 @@ I also work with Java and Spring Boot, developing REST APIs, integrating applica
 <p style="font-size: 1.12rem; margin: 0 0 4px 0;">
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microgenetics&logoColor=ff4da6" style="height: 22px;"/>
 </p>
+
 
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>QA & Testing</strong></p>
 <p style="font-size: 1.12rem; margin: 0 0 4px 0;">
 <img src="https://img.shields.io/badge/Functional_Testing-000000?style=flat-square&logo=testing-library&logoColor=ff4da6" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/API_REST-000000?style=flat-square&logo=fastapi&logoColor=009688" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Insomnia-000000?style=flat-square&logo=insomnia&logoColor=5849BE" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/Selenium-000000?style=flat-square&logo=selenium&logoColor=43B02A" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/JMeter-000000?style=flat-square&logo=apachejmeter&logoColor=D22128" style="height: 22px;"/>
 </p>
+
 
 <p style="font-size: 1.24rem; margin: 0 0 4px 0;"><strong>IDEs & Tools</strong></p>
 <p style="font-size: 1.12rem; margin: 0 0 4px 0;">
@@ -63,7 +71,10 @@ I also work with Java and Spring Boot, developing REST APIs, integrating applica
 <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=bf91f3" style="height: 22px;"/>
+</p>
+<p style="font-size: 1.12rem; margin: 0 0 4px 0;">
 <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=ff4da6" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff4da6" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff" style="height: 22px;"/>
