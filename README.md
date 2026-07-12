@@ -8,9 +8,11 @@
 
 <div style="width: 50%;">
   <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Hello! I am Alessandra 👋✨</h3>
-  <p style="margin: 0 0 0px 0;"> 💻Software Engineering, Back-End Development & Data Analysis</p>
+  <p style="margin: 0 0 0px 0;"> 💻Software Engineering | QA & Software Testing | Java Back-End Development</p>
   <h3 style="margin: 6px 0;">👩‍💻 About me</h3>
-  <p style="margin: 0 0 6px 0;">I am a Software Engineering student focusing on Back-End development, working on the creation of web applications with Java and Spring Boot, development of REST APIs, and database integration, using tools such as Git and Docker. I also have experience in manual and API testing, as well as knowledge in data analysis with SQL, Python (Pandas), and Power BI for data processing and dashboard creation.</p>
+  <p style="margin: 0 0 6px 0;">Sou estudante de Engenharia de Software, com foco em Qualidade de Software (QA) e desenvolvimento Back-end. Tenho experiência em testes de software, incluindo testes funcionais, testes manuais, validação de requisitos, identificação de bugs e testes de APIs REST utilizando Postman.
+
+Também atuo com Java e Spring Boot, desenvolvendo APIs REST, integrando aplicações com bancos de dados relacionais e construindo aplicações web. Tenho interesse em aprimorar a qualidade de software por meio de práticas de testes, automação e processos eficientes de desenvolvimento.</p>
   <div style="margin-top: 2px;" align="left">
     <h3 style="margin: 6px 0;">📫 Contatos</h3>
     <a href="mailto:alessandravitoria799@gmail.com">
