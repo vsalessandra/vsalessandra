@@ -8,7 +8,7 @@
 
 <div style="width: 50%;">
   <h3 style="font-size: 2.10rem; margin: 4px 0 4px 0; border-bottom: 0; padding-bottom: 0;">Hello! I am Alessandra 👋✨</h3>
-  <p style="margin: 0 0 0px 0;"> 💻Software Engineering | QA & Software Testing | Java Back-End Development</p>
+  <p style="margin: 0 0 0px 0;"> 💻Software Engineering | QA & Software Testing | Test Automation</p>
   <h3 style="margin: 6px 0;">👩‍💻 About me</h3>
   <p style="margin: 0 0 6px 0;"><p style="margin: 0 0 6px 0;">
 I am a Software Engineering student focusing on Quality Assurance and Back-End development. I have experience in software testing, including functional testing, manual testing, requirements validation, bug identification, and REST API testing using Postman.
@@ -58,6 +58,7 @@ I also work with Java and Spring Boot, developing REST APIs, integrating applica
 <p style="font-size: 1.12rem; margin: 0 0 4px 0;">
 <img src="https://img.shields.io/badge/Functional_Testing-000000?style=flat-square&logo=testing-library&logoColor=ff4da6" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/API_REST-000000?style=flat-square&logo=fastapi&logoColor=009688" style="height: 22px;"/>
+<img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=69D3A7" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Insomnia-000000?style=flat-square&logo=insomnia&logoColor=5849BE" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Selenium-000000?style=flat-square&logo=selenium&logoColor=43B02A" style="height: 22px;"/>
