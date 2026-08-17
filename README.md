@@ -42,9 +42,20 @@
 
 <div style="height: 4px;"></div>
 
-<div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;"> <img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" width="49%" style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px; box-shadow: 0 0 0 1px rgba(156,163,175,0.22);" /> </div>
+<div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=radical&hide_border=true"
+    width="49%"
+    style="height: 176px; display: inline-block; vertical-align: top; border: 2px solid #9ca3af; border-radius: 12px;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=radical&hide_border=true"
+    width="49%"
+    style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px;" />
+
+</div>
 
 <div style="width: 48%; padding-right: 12px;">
+
 
 <h3>🧪 Testes de Software & QA</h3>
 
