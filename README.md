@@ -42,17 +42,52 @@
 
 <div style="height: 4px;"></div>
 
-<div style="width: 52%; float: right; margin-left: 12px; white-space: nowrap; font-size: 0;">
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vsalessandra&show_icons=true&theme=radical&hide_border=true"
-    width="49%"
-    style="height: 176px; display: inline-block; vertical-align: top; border: 2px solid #9ca3af; border-radius: 12px;" />
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsalessandra&layout=compact&theme=radical&hide_border=true"
-    width="49%"
-    style="height: 176px; display: inline-block; vertical-align: top; margin-left: 2%; border: 2px solid #9ca3af; border-radius: 12px;" />
+<img src="https://img.shields.io/badge/QA_%26_TESTES-ff4da6?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
-</div>
+<br><br>
+
+<img src="https://img.shields.io/badge/Testes_Funcionais-0d1117?style=flat-square&logoColor=ff4da6" />
+<img src="https://img.shields.io/badge/Testes_Exploratórios-0d1117?style=flat-square&logoColor=ff4da6" />
+<img src="https://img.shields.io/badge/Testes_de_API-0d1117?style=flat-square&logo=ff4da6" />
+<img src="https://img.shields.io/badge/Automação-0d1117?style=flat-square&logoColor=ff4da6" />
+
+<br>
+
+<img src="https://img.shields.io/badge/BDD_%7C_Gherkin-0d1117?style=flat-square&logo=cucumber&logoColor=23D96C" />
+<img src="https://img.shields.io/badge/Cypress-0d1117?style=flat-square&logo=cypress&logoColor=69D3A7" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/JMeter-0d1117?style=flat-square&logo=apachejmeter&logoColor=D22128" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/TECNOLOGIAS- bd93f9?style=for-the-badge&logo=dev.to&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ff4da6" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=bf91f3" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+
+</td>
+
+</tr>
+</table>
+
 
 <div style="width: 48%; padding-right: 12px;">
 
