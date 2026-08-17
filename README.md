@@ -97,17 +97,9 @@
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" style="height: 22px;"/>
-
-</p>
-
-<h3>🖥️ IDEs</h3>
-
-<p style="font-size: 1.12rem; margin: 0 0 4px 0;">
-
 <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=bf91f3" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=bf91f3" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipse&logoColor=bf91f3" style="height: 22px;"/>
-
 </p>
 
 </div>
