@@ -59,8 +59,6 @@
 <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/JMeter-000000?style=flat-square&logo=apachejmeter&logoColor=D22128" style="height: 22px;"/>
 <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=009688" style="height: 22px;"/>
-<img src="https://img.shields.io/badge/Gherkin-000000?style=flat-square&logo=cucumber&logoColor=23D96C" style="height: 22px;"/>
-<img src="https://img.shields.io/badge/BDD-000000?style=flat-square&logo=cucumber&logoColor=23D96C" style="height: 22px;"/>
 
 </p>
 
