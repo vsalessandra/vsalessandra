@@ -116,15 +116,25 @@ testes de API e BDD, aplicando ferramentas e práticas que contribuam para a ent
 
 <div align="center">
 
+<table>
+<tr>
+
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsalessandra&theme=radical"
   width="400"
 />
+</td>
 
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsalessandra&theme=radical"
   width="400"
 />
+</td>
+
+</tr>
+</table>
 
 </div>
 
