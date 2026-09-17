@@ -114,8 +114,6 @@ testes de API e BDD, aplicando ferramentas e práticas que contribuam para a ent
 
 <!-- 📊 GITHUB STATS -->
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <div align="center">
 
 <img
